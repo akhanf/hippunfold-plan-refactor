@@ -1,0 +1,17 @@
+   16 categorized_files/autotop.txt
+    8 categorized_files/cifti.txt
+   27 categorized_files/coords.txt
+    3 categorized_files/directories.txt
+   17 categorized_files/dseg.txt
+  132 categorized_files/gifti.txt
+    4 categorized_files/label_nii.txt
+    6 categorized_files/mask.txt
+    8 categorized_files/png.txt
+    3 categorized_files/ref_nii.txt
+    8 categorized_files/spec.txt
+    3 categorized_files/T1w.txt
+   11 categorized_files/T2w.txt
+    1 categorized_files/tar.txt
+    3 categorized_files/tsv.txt
+   17 categorized_files/xfm.txt
+  267 total
