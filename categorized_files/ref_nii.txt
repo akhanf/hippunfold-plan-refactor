@@ -1,0 +1,3 @@
+work/sub-001/seg/sub-001_hemi-L_space-T1w_cropref.nii.gz
+work/sub-001/seg/sub-001_hemi-R_space-T1w_cropref.nii.gz
+work/sub-001/sub-001_space-unfold_refvol.nii.gz

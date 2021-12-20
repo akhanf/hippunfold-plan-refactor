@@ -1,0 +1,4 @@
+work/sub-001/surf/sub-001_hemi-L_space-T1w_den-2k_subfields.label.nii
+work/sub-001/surf/sub-001_hemi-L_space-T1w_den-7k_subfields.label.nii
+work/sub-001/surf/sub-001_hemi-R_space-T1w_den-2k_subfields.label.nii
+work/sub-001/surf/sub-001_hemi-R_space-T1w_den-7k_subfields.label.nii

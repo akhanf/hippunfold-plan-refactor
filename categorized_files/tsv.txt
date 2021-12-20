@@ -1,0 +1,3 @@
+results/sub-001/qc/sub-001_hemi-L_desc-unetf3d_dice.tsv
+results/sub-001/qc/sub-001_hemi-R_desc-unetf3d_dice.tsv
+results/sub-001/seg/sub-001_desc-subfields_volumes.tsv

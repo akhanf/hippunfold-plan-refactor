@@ -1,0 +1,3 @@
+results/sub-001/anat/sub-001_desc-preproc_T1w.nii.gz
+work/sub-001/anat/sub-001_space-CITI168_desc-affine_T1w.nii.gz
+work/sub-001/anat/sub-001_T1w.nii.gz

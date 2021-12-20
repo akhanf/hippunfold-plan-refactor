@@ -1,0 +1,17 @@
+results/sub-001/seg/sub-001_hemi-L_space-cropT1w_desc-subfields_dseg.nii.gz
+results/sub-001/seg/sub-001_hemi-L_space-T1w_desc-subfields_dseg.nii.gz
+results/sub-001/seg/sub-001_hemi-R_space-cropT1w_desc-subfields_dseg.nii.gz
+results/sub-001/seg/sub-001_hemi-R_space-T1w_desc-subfields_dseg.nii.gz
+work/sub-001/anat/sub-001_space-template_desc-hipptissue_dseg.nii.gz
+work/sub-001/seg/sub-001_hemi-Lflip_space-corobl_desc-inject_dseg.nii.gz
+work/sub-001/seg/sub-001_hemi-Lflip_space-corobl_desc-nnunet_dseg.nii.gz
+work/sub-001/seg/sub-001_hemi-Lflip_space-corobl_desc-postproc_dseg.nii.gz
+work/sub-001/seg/sub-001_hemi-L_space-corobl_desc-nnunet_dseg.nii.gz
+work/sub-001/seg/sub-001_hemi-L_space-corobl_desc-postproc_dseg.nii.gz
+work/sub-001/seg/sub-001_hemi-L_space-corobl_desc-subfields_dseg.nii.gz
+work/sub-001/seg/sub-001_hemi-L_space-corobl_desc-subfieldsnotissue_dseg.nii.gz
+work/sub-001/seg/sub-001_hemi-R_space-corobl_desc-inject_dseg.nii.gz
+work/sub-001/seg/sub-001_hemi-R_space-corobl_desc-nnunet_dseg.nii.gz
+work/sub-001/seg/sub-001_hemi-R_space-corobl_desc-postproc_dseg.nii.gz
+work/sub-001/seg/sub-001_hemi-R_space-corobl_desc-subfields_dseg.nii.gz
+work/sub-001/seg/sub-001_hemi-R_space-corobl_desc-subfieldsnotissue_dseg.nii.gz

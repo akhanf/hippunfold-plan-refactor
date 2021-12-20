@@ -1,0 +1,16 @@
+work/sub-001/sub-001_hemi-Lflip_space-corobl_desc-cropped_autotop/WarpITK_native2unfold.nii
+work/sub-001/sub-001_hemi-Lflip_space-corobl_desc-cropped_autotop/WarpITK_unfold2native.nii
+work/sub-001/sub-001_hemi-Lflip_space-corobl_desc-cropped_autotop/WarpITK_unfold2unfoldtemplate_0InverseWarp.nii.gz
+work/sub-001/sub-001_hemi-Lflip_space-corobl_desc-cropped_autotop/WarpITK_unfold2unfoldtemplate_0Warp.nii.gz
+work/sub-001/sub-001_hemi-Lflip_space-corobl_desc-cropped_autotop/Warp_native2unfold.nii
+work/sub-001/sub-001_hemi-Lflip_space-corobl_desc-cropped_autotop/Warp_unfold2native.nii
+work/sub-001/sub-001_hemi-Lflip_space-corobl_desc-cropped_autotop/Warp_unfold2unfoldtemplate.nii
+work/sub-001/sub-001_hemi-Lflip_space-corobl_desc-cropped_autotop/Warp_unfoldtemplate2unfold.nii
+work/sub-001/sub-001_hemi-R_space-corobl_desc-cropped_autotop/WarpITK_native2unfold.nii
+work/sub-001/sub-001_hemi-R_space-corobl_desc-cropped_autotop/WarpITK_unfold2native.nii
+work/sub-001/sub-001_hemi-R_space-corobl_desc-cropped_autotop/WarpITK_unfold2unfoldtemplate_0InverseWarp.nii.gz
+work/sub-001/sub-001_hemi-R_space-corobl_desc-cropped_autotop/WarpITK_unfold2unfoldtemplate_0Warp.nii.gz
+work/sub-001/sub-001_hemi-R_space-corobl_desc-cropped_autotop/Warp_native2unfold.nii
+work/sub-001/sub-001_hemi-R_space-corobl_desc-cropped_autotop/Warp_unfold2native.nii
+work/sub-001/sub-001_hemi-R_space-corobl_desc-cropped_autotop/Warp_unfold2unfoldtemplate.nii
+work/sub-001/sub-001_hemi-R_space-corobl_desc-cropped_autotop/Warp_unfoldtemplate2unfold.nii

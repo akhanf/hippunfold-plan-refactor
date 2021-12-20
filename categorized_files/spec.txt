@@ -1,0 +1,8 @@
+results/sub-001/surf/sub-001_hemi-L_space-T1w_den-2k_hippunfold.spec
+results/sub-001/surf/sub-001_hemi-L_space-T1w_den-7k_hippunfold.spec
+results/sub-001/surf/sub-001_hemi-R_space-T1w_den-2k_hippunfold.spec
+results/sub-001/surf/sub-001_hemi-R_space-T1w_den-7k_hippunfold.spec
+results/sub-001/surf/sub-001_space-T1w_den-2k_hippunfold.spec
+results/sub-001/surf/sub-001_space-T1w_den-7k_hippunfold.spec
+work/sub-001/surf/sub-001_space-T1w_den-2k_hippunfold.spec
+work/sub-001/surf/sub-001_space-T1w_den-7k_hippunfold.spec

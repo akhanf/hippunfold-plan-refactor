@@ -1,0 +1,8 @@
+results/sub-001/qc/sub-001_desc-subfields_volumes.png
+results/sub-001/qc/sub-001_from-subject_to-CITI168_regqc.png
+results/sub-001/qc/sub-001_hemi-L_space-cropT1w_den-2k_desc-subfields_midthickness.surf.png
+results/sub-001/qc/sub-001_hemi-L_space-cropT1w_den-7k_desc-subfields_midthickness.surf.png
+results/sub-001/qc/sub-001_hemi-L_space-cropT1w_desc-subfields_dseg.png
+results/sub-001/qc/sub-001_hemi-R_space-cropT1w_den-2k_desc-subfields_midthickness.surf.png
+results/sub-001/qc/sub-001_hemi-R_space-cropT1w_den-7k_desc-subfields_midthickness.surf.png
+results/sub-001/qc/sub-001_hemi-R_space-cropT1w_desc-subfields_dseg.png

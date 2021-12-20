@@ -1,0 +1,8 @@
+results/sub-001/surf/sub-001_space-T1w_den-2k_curvature.dscalar.nii
+results/sub-001/surf/sub-001_space-T1w_den-2k_gyrification.dscalar.nii
+results/sub-001/surf/sub-001_space-T1w_den-2k_thickness.dscalar.nii
+results/sub-001/surf/sub-001_space-T1w_den-7k_curvature.dscalar.nii
+results/sub-001/surf/sub-001_space-T1w_den-7k_gyrification.dscalar.nii
+results/sub-001/surf/sub-001_space-T1w_den-7k_thickness.dscalar.nii
+results/sub-001/surf/sub-001_space-T1w_den-2k_subfields.dlabel.nii
+results/sub-001/surf/sub-001_space-T1w_den-7k_subfields.dlabel.nii

@@ -1,0 +1,11 @@
+results/sub-001/anat/sub-001_space-T1w_desc-preproc_T2w.nii.gz
+results/sub-001/seg/sub-001_hemi-L_space-cropT1w_desc-preproc_T2w.nii.gz
+results/sub-001/seg/sub-001_hemi-R_space-cropT1w_desc-preproc_T2w.nii.gz
+work/sub-001/anat/sub-001_desc-n4_T2w.nii.gz
+work/sub-001/anat/sub-001_desc-preproc_T2w.nii.gz
+work/sub-001/anat/sub-001_hemi-Lflip_space-corobl_desc-cropped_T2w.nii.gz
+work/sub-001/anat/sub-001_hemi-L_space-corobl_desc-cropped_T2w.nii.gz
+work/sub-001/anat/sub-001_hemi-R_space-corobl_desc-cropped_T2w.nii.gz
+work/sub-001/anat/sub-001_T2w.nii.gz
+work/sub-001/seg/sub-001_hemi-L_space-template_desc-f3d_T2w.nii.gz
+work/sub-001/seg/sub-001_hemi-R_space-template_desc-f3d_T2w.nii.gz

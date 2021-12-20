@@ -1,0 +1,17 @@
+results/sub-001/seg/sub-001_hemi-L_from-T1w_to-unfold_mode-image_xfm.nii.gz
+results/sub-001/seg/sub-001_hemi-R_from-T1w_to-unfold_mode-image_xfm.nii.gz
+work/sub-001/anat/sub-001_desc-affine_from-T1w_to-CITI168_type-itk_xfm.txt
+work/sub-001/anat/sub-001_desc-affine_from-T1w_to-CITI168_type-ras_xfm.txt
+work/sub-001/anat/sub-001_desc-affine_from-T1w_to-corobl_type-itk_xfm.txt
+work/sub-001/anat/sub-001_desc-affine_from-T1w_to-corobl_type-ras_xfm.txt
+work/sub-001/anat/sub-001_desc-affine_from-T2w_to-corobl_type-itk_xfm.txt
+work/sub-001/anat/sub-001_desc-rigid_from-T2w_to-T1w_type-itk_xfm.txt
+work/sub-001/anat/sub-001_desc-rigid_from-T2w_to-T1w_type-ras_xfm.txt
+work/sub-001/seg/sub-001_hemi-Lflip_space-corobl_desc-greedy_from-template_to-subject_xfm.nii.gz
+work/sub-001/seg/sub-001_hemi-Lflip_space-corobl_desc-moments_from-template_to-subject_type-ras_xfm.txt
+work/sub-001/seg/sub-001_hemi-L_from-corobl_to-unfold_mode-image_xfm.nii.gz
+work/sub-001/seg/sub-001_hemi-R_from-corobl_to-unfold_mode-image_xfm.nii.gz
+work/sub-001/seg/sub-001_hemi-R_space-corobl_desc-greedy_from-template_to-subject_xfm.nii.gz
+work/sub-001/seg/sub-001_hemi-R_space-corobl_desc-moments_from-template_to-subject_type-ras_xfm.txt
+work/sub-001/seg/sub-001_hemi-L_space-corobl_desc-f3d_cpp.nii.gz
+work/sub-001/seg/sub-001_hemi-R_space-corobl_desc-f3d_cpp.nii.gz

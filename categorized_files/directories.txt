@@ -1,0 +1,3 @@
+work/sub-001/anat/sub-001_space-template_desc-hipptissue_dsegsplit
+work/sub-001/seg/sub-001_hemi-Lflip_space-corobl_desc-nnunet_dsegsplit
+work/sub-001/seg/sub-001_hemi-R_space-corobl_desc-nnunet_dsegsplit

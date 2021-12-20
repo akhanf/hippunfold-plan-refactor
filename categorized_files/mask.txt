@@ -1,0 +1,6 @@
+work/sub-001/seg/sub-001_dir-IO_hemi-Lflip_space-corobl_desc-all_mask.nii.gz
+work/sub-001/seg/sub-001_dir-IO_hemi-Lflip_space-corobl_desc-SRLM_mask.nii.gz
+work/sub-001/seg/sub-001_dir-IO_hemi-R_space-corobl_desc-all_mask.nii.gz
+work/sub-001/seg/sub-001_dir-IO_hemi-R_space-corobl_desc-SRLM_mask.nii.gz
+work/sub-001/seg/sub-001_hemi-L_space-template_desc-f3d_mask.nii.gz
+work/sub-001/seg/sub-001_hemi-R_space-template_desc-f3d_mask.nii.gz
